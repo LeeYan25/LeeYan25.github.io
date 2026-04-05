@@ -1,0 +1,22 @@
+# Header menu (order top to bottom). Comment out or delete items you do not need.
+# Full template pages (talks, teaching, etc.) still exist under their URLs if you add them back later.
+
+main:
+  - title: "About"
+    url: /
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "CV"
+    url: /cv/
+
+  # Optional: uncomment when you have content
+  # - title: "Talks"
+  #   url: /talks/
+  # - title: "Teaching"
+  #   url: /teaching/
+  # - title: "Portfolio"
+  #   url: /portfolio/
+  # - title: "Blog"
+  #   url: /year-archive/
