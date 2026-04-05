@@ -2,38 +2,34 @@
   "basics": {
     "name": "Ziwen Yan (Lee)",
     "email": "zyanbj@connect.ust.hk",
-    "phone": "9340 1854",
     "website": "https://LeeYan25.github.io",
-    "summary": "I am an Undergraduate student at HKUST, welcome to my website!",
+    "summary": "Undergraduate at HKUST, double major in Mathematics and Data Science and Technology.",
     "location": {
-      "address": "",
-      "postalCode": "",
       "city": "Hong Kong",
-      "countryCode": "HK",
-      "region": "Hong Kong"
+      "region": "Hong Kong",
+      "countryCode": "HK"
     },
     "profiles": [
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "LeeYan25",
+        "url": "https://github.com/LeeYan25"
       }
     ]
   },
-  "work": [],
   "education": [
     {
       "institution": "The Hong Kong University of Science and Technology",
       "area": "B.Sc. in Mathematics, B.Sc. in Data Science and Technology",
       "studyType": "",
       "startDate": "2023",
-      "endDate": "2026(expected)",
+      "endDate": "2027 (expected)",
       "gpa": "4.18 / 4.30 (Rank 1)",
       "courses": []
     },
     {
-      "institution": "the Affiliated High School of South China Normal University",
-      "area": "",
+      "institution": "The Affiliated High School of South China Normal University",
+      "area": "High School",
       "studyType": "",
       "startDate": "2020",
       "endDate": "2023",
@@ -41,8 +37,22 @@
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": ["Chinese", "English", "Cantonese"],
+  "work": [],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": ["Python", "C++", "Java"]
+    },
+    {
+      "name": "Other Skills",
+      "keywords": ["Git", "Linux", "LaTeX"]
+    }
+  ],
+  "languages": [
+    { "language": "Chinese", "fluency": "Native" },
+    { "language": "English", "fluency": "Fluent" },
+    { "language": "Cantonese", "fluency": "Conversational" }
+  ],
   "interests": [],
   "references": []
 }

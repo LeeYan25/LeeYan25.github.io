@@ -5,11 +5,9 @@ main:
   - title: "About"
     url: /
 
-  - title: "Publications"
-    url: /publications/
-
-  - title: "CV"
-    url: /cv/
+  # CV merged into About for now. To restore: uncomment below and reset _pages/cv.md from git history.
+  # - title: "CV"
+  #   url: /cv/
 
   # Optional: uncomment when you have content
   # - title: "Talks"

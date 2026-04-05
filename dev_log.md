@@ -4,7 +4,10 @@
 
 - 已在本仓库根目录部署 **Academic Pages**（Jekyll + Minimal Mistakes 风格），与 [Aragorn 示例站](https://aragornbfrer.github.io/) 同类技术栈。
 - 已配置 `url` / `repository` 为 `LeeYan25.github.io`，导航精简为 About / Publications / CV。
-- 首页 `_pages/about.md` 已改为可编辑的本科生友好段落结构（About / News / Projects / Contact 等占位）。
+- 首页 `_pages/about.md`、侧栏 `_config.yml` 已与 **Ziwen Yan (Lee) / HKUST** 信息对齐；**CV 页** `/cv/` 改为读取 `_data/cv.json`（`{% include cv-template.html %}`）；`/cv-json/` 重定向到 `/cv/`。
+- **Publications** 已从顶栏移除；`/publications/` 重定向到首页。`_publications/` 下条目仍可有独立 URL，需要恢复列表页时在 `navigation.yml` 取消菜单并还原 `_pages/publications.html` 模板内容。
+- **CV 独立页已隐藏**：顶栏无 CV；`/cv/`、`/cv-json/` 重定向到 `/`；履历正文合并进 `_pages/about.md`。`_data/cv.json` 保留完整结构（含 `basics`）便于日后恢复 `cv.md` 与导航。
+- `cv.json` 中 GitHub 已从模板账号改为 **LeeYan25**；`languages` 改为模板所需的对象数组。
 
 ## [关键决策]
 
@@ -27,6 +30,7 @@
 ## [上下文锚点]
 
 - 站点配置：`_config.yml`（`url`, `author`, `repository`）
-- 首页正文：`_pages/about.md`（`permalink: /`）
+- 首页正文：`_pages/about.md`（`permalink: /`，`hide_page_title: true` 隐藏页内大标题）
+- 布局：`_layouts/single.html`（`hide_page_title` 控制是否输出 `<h1 class="page__title">`）
 - 顶栏：`_data/navigation.yml`
 - 侧栏头像：`images/profile.png`
