@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Lee Yan"
+title                    : "Ziwen Yan (Lee)"
 title_separator          : "-"
-name                     : &name "Lee Yan"
-description              : &description "Undergraduate portfolio — mathematics, CS, and research."   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Ziwen Yan (Lee)"
+description              : &description "Welcome to my website!"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://LeeYan25.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,13 +24,13 @@ repository               : "LeeYan25/LeeYan25.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Lee Yan"
+  name             : "Ziwen Yan (Lee)"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate student — replace this line in _config.yml with your major and interests."
-  location         : "Your city / timezone"
+  location         : "Hong Kong"
   employer         : "Your university"
   uri              : # URL
-  email            : "your.email@example.edu" 
+  email            : "zyanbj@connect.ust.hk" 
 
   # Academic websites
   academia         : # URL
