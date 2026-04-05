@@ -18,6 +18,10 @@
 - 本地已 `git commit`，请在终端执行 `git push origin main`（若 HTTPS 报错可试：`git config http.version HTTP/1.1` 后重试）。
 - 首次推送后在 GitHub **Settings → Pages** 确认 Source 为 **main** 分支 root，等待构建（约 1–3 分钟）。
 
+## [本地 Jekyll / bundle 备忘]
+
+- 系统自带 **Ruby 2.6 + Bundler 1.x** 易导致 `bundle install` 极慢或像卡住；应用 **Homebrew Ruby 3.x + Bundler 2**，删 `Gemfile.lock` 后重装；或改用 **`docker compose up`** 预览，无需本机 `bundle install`。
+
 ## [上下文锚点]
 
 - 站点配置：`_config.yml`（`url`, `author`, `repository`）
