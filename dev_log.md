@@ -15,6 +15,7 @@
 
 - 替换 `_config.yml` 中 `author`（姓名、学校、`email`、头像 `images/profile.png`）。
 - 将真实内容写入 `_pages/about.md`；论文条目放入 `_publications/`。
+- 本地已 `git commit`，请在终端执行 `git push origin main`（若 HTTPS 报错可试：`git config http.version HTTP/1.1` 后重试）。
 - 首次推送后在 GitHub **Settings → Pages** 确认 Source 为 **main** 分支 root，等待构建（约 1–3 分钟）。
 
 ## [上下文锚点]
