@@ -14,16 +14,6 @@
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
         "username": "academicpages",
         "url": "https://github.com/academicpages"
@@ -33,29 +23,20 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "The Hong Kong University of Science and Technology",
+      "area": "B.Sc. in Mathematics, B.Sc. in Data Science and Technology",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
+      "startDate": "2023",
+      "endDate": "2026(expected)",
+      "gpa": "4.18 / 4.30 (Rank 1)",
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "the Affiliated High School of South China Normal University",
+      "area": "",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2020",
+      "endDate": "2023",
       "gpa": null,
       "courses": []
     }
