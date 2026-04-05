@@ -11,7 +11,7 @@ This site is built with [Jekyll](https://jekyllrb.com/) and the [Academic Pages]
 
 ## About me
 
-I am an undergraduate student at **[Your university]**, majoring in **[Your major(s)]**. I am interested in **[e.g. machine learning / pure math / systems]**, and I am currently **[e.g. working in Prof. X’s lab / preparing applications / taking course Y]**.
+I am pursing a Bachelor's degree at 
 
 ## News
 

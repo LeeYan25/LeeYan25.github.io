@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Ziwen Yan (Lee)",
+    "email": "zyanbj@connect.ust.hk",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://LeeYan25.github.io",
+    "summary": "I am an Undergraduate student at HKUST, welcome to my website!",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Hong Kong",
       "countryCode": "US",
-      "region": ""
+      "region": "Hong Kong"
     },
     "profiles": [
       {
