@@ -21,6 +21,8 @@
 ## [本地 Jekyll / bundle 备忘]
 
 - 系统自带 **Ruby 2.6 + Bundler 1.x** 易导致 `bundle install` 极慢或像卡住；应用 **Homebrew Ruby 3.x + Bundler 2**，删 `Gemfile.lock` 后重装；或改用 **`docker compose up`** 预览，无需本机 `bundle install`。
+- **Ruby 3.4+**：标准库不再默认包含 `csv`、`bigdecimal` 等，已在 `Gemfile` 增加 `gem 'csv'`、`gem 'bigdecimal'`；若再报 `base64` 等，同样按需加入 `Gemfile`。
+- **Ruby 4.0 + Liquid 4**：`tainted?` 已移除，本地 `jekyll serve` 会报错；已加 `_plugins/ruby4_liquid_compat.rb` 做兼容。**GitHub Pages 默认不跑自定义插件**，线上仍用官方环境（Ruby 3.3），不受影响。
 
 ## [上下文锚点]
 

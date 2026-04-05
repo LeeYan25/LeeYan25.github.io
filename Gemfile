@@ -1,5 +1,9 @@
 source 'https://rubygems.org'
 
+# Ruby 3.4+ no longer bundles these in the default set; Jekyll / Liquid still require them.
+gem 'csv'
+gem 'bigdecimal'
+
 group :jekyll_plugins do
   gem 'jekyll'
   gem 'jekyll-feed'
