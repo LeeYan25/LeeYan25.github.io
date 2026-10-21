@@ -65,24 +65,28 @@ I am currently working on discrete flow matching for image perception under the 
     <span><code>Feb2024-May2024</code></span>
   - A toy project, learnt about unix operations and single cell sequencing. -->
 
-## Awards 
+## Awards
 
 - <div style="display: flex; justify-content: space-between;">
-    <span><strong>the S.S. Chern Class Scholarship</strong></span>
-    <span><code>May2024</code></span>
-  - Top 20 math student 
+    <span><strong>HKSAR Government Scholarship</strong></span>
+    <span><code>May2026 &amp; May2025</code></span>
 - <div style="display: flex; justify-content: space-between;">
-    <span><strong>University’s Scholarship Scheme for Continuing UG Student</strong></span>
+    <span><strong>Lee Hysan Foundation Exchange Scholarship</strong></span>
+    <span><code>Feb2026</code></span>
+- <div style="display: flex; justify-content: space-between;">
+    <span><strong>Epsilon Fund Award</strong></span>
+    <span><code>May2025</code></span>
+  - Top 10 students in the Mathematics Department at HKUST.
+- <div style="display: flex; justify-content: space-between;">
+    <span><strong>S.S. Chern Class Scholarship</strong></span>
     <span><code>May2024</code></span>
-  - Top 2% student
+- <div style="display: flex; justify-content: space-between;">
+    <span><strong>University Scholarship Scheme for Continuing UG Students</strong></span>
+    <span><code>May2024</code></span>
+  - Top 2% of students at HKUST.
 - <div style="display: flex; justify-content: space-between;">
     <span><strong>Ng Hong Mun Educational Foundation Outstanding Student Scholarship</strong></span>
     <span><code>May2024</code></span>
-  - Outstanding Student Scholarship
-- <div style="display: flex; justify-content: space-between;">
-    <span><strong>the HKSAR Government Scholarship</strong></span>
-    <span><code>May2025</code></span>
-  - Top 0.1% student in Hong Kong Universities
 
 
 ## Standardized Tests
@@ -102,20 +106,31 @@ I am currently working on discrete flow matching for image perception under the 
   
 
 
-## Extra Curricular Activities 
+## Leadership
 
 - <div style="display: flex; justify-content: space-between;">
-    <span><strong>Mainland Students and Scholars Society, UG Section</strong></span>
+    <span><strong>SAGA Student Volunteer Society</strong></span>
+    <span><code>Sep2026-Present</code></span>
+  - Volunteer Teacher
+- <div style="display: flex; justify-content: space-between;">
+    <span><strong>School of Science, HKUST</strong></span>
+    <span><code>May2026-Present</code></span>
+  - Peer Mentor
+  - Support orientation and welcoming activities for incoming students.
+- <div style="display: flex; justify-content: space-between;">
+    <span><strong>Undergraduate Recruitment and Admissions Office, HKUST</strong></span>
+    <span><code>Nov2024-Present</code></span>
+  - Student Ambassador
+  - Assist with student recruitment, admissions activities, and new student registration.
+- <div style="display: flex; justify-content: space-between;">
+    <span><strong>Kowloon East Regional Headquarters cum Ngau Tau Kok Divisional Police Station</strong></span>
+    <span><code>Sep2024-Sep2025</code></span>
+  - Anti-Scam Ambassador
+- <div style="display: flex; justify-content: space-between;">
+    <span><strong>Mainland Students and Scholars Society (UG Section), HKUST</strong></span>
     <span><code>Apr2024-Apr2025</code></span>
-  - IT Secretary, maintained the database and website, organized orientation activities for new students.
-- <div style="display: flex; justify-content: space-between;">
-    <span><strong>Undergraduate Recruitment and Admissions Office</strong></span>
-    <span><code>Sep2024-Present</code></span>
-  - Student Ambassador, assisted in the recruitment and admissions process, helped with the registration of new students.
-- <div style="display: flex; justify-content: space-between;">
-    <span><strong>School of Science</strong></span>
-    <span><code>Apr2026-Present</code></span>
-  - Peer Mentor, assisted in the orientation and welcoming activities for new students.
+  - IT Secretary
+  - Maintained the organization’s database and website and supported orientation activities for incoming students.
 
 
 ## Contact
