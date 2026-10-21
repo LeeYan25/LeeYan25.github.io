@@ -10,8 +10,9 @@ redirect_from:
 
 ## About me
 
-I am a year 3 undergraduate student at the [Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk/), double-majoring in Mathematics and Data Science and Technology. I am currently working on spatial transcriptomics and multimodal omics data analysis, where I am fortunate to be supervised by [Prof. Can Yang](https://sites.google.com/site/eeyangc/). I am interested in machine learning and how it can be applied to solve 
-real-world bio problems.
+I am an undergraduate student at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), double-majoring in Mathematics and Data Science and Technology. I expect to graduate in 2027. My research interests include generative modeling, image perception, and multimodal learning.
+
+I am currently working on discrete flow matching for image perception under the supervision of [Prof. Long Chen](https://zjuchenlong.github.io/). Previously, I had the pleasure of working with [Prof. Can Yang](https://sites.google.com/site/eeyangc/) on high-resolution spatial transcriptomics data analysis.
 
 ## News
 
@@ -22,8 +23,8 @@ real-world bio problems.
 - <div style="display: flex; justify-content: space-between;">
     <span><strong>The Hong Kong University of Science and Technology</strong></span>
     <span><code>2023-2027</code></span>
-  - Double major in Mathematics and Data Science and Technology
-  - GPA 4.18 / 4.30 (Rank 1)
+  - B.Sc. candidate in Mathematics and B.Sc. candidate in Data Science and Technology
+  - GPA 4.19 / 4.30 (Top 1% in both programs)
 - <div style="display: flex; justify-content: space-between;">
     <span><strong>ETH Zürich</strong></span>
     <span><code>Sep2025-Feb2026</code></span>
@@ -31,27 +32,38 @@ real-world bio problems.
 - <div style="display: flex; justify-content: space-between;">
     <span><strong>University of California, Berkeley</strong></span>
     <span><code>Jun2024-Aug2024</code></span>
-  - Visiting student in Mathematics
-- <div style="display: flex; justify-content: space-between;">
-    <span><strong>The Affiliated High School of South China Normal University</strong></span>
-    <span><code>2020-2023</code></span>
-  - High School
+  - Visiting student
 
 ## Research Experience
 
 - <div style="display: flex; justify-content: space-between;">
-    <span><strong>High Resolution Spatial Transcriptomics Data Analysis</strong></span>
-    <span><code>May2025-Present</code></span>
-  - Reproduced the result of Stitch3D and is currently trying to modify the framework and work on high resolution spatial transcriptomics platforms like visium HD and xenium.
+    <span><strong>Discrete Flow Matching for Image Perception</strong></span>
+    <span><code>Aug2025-Present</code></span>
+  - Generalized the continuous flow matching framework to discrete settings.
+  - Proposed improvements to existing flow matching methods for class modeling.
+  - Currently exploring new methods for image perception tasks. 
 
 - <div style="display: flex; justify-content: space-between;">
+    <span><strong>High Resolution Spatial Transcriptomics Data Analysis</strong></span>
+    <span><code>Mar2025-Aug2025</code></span>
+  - Reproduced results from methods including RCTD, Baysor, and Cell2Loc.
+  - Extended the framework to support high-resolution platforms such as Visium HD and Xenium.
+  - Worked on new methods for multimodal data integration and joint modeling of multiple tasks.
+
+- <div style="display: flex; justify-content: space-between;">
+    <span><strong>VLM Reasoning and Cross-Modal Spatial Attention</strong></span>
+    <span><code>Sep2025-Feb2025</code></span>
+  - Investigated the role of specific attention layers in representing spatial relationships.
+  - Proposed metrics for comparing and visualizing cross-modal spatial attention.
+  
+<!-- - <div style="display: flex; justify-content: space-between;">
     <span><strong>Modeling Brain Wide Neuron Activity with RNN</strong></span>
     <span><code>Feb2025-May2025</code></span>
 
 - <div style="display: flex; justify-content: space-between;">
     <span><strong>Single Cell Sequencing and Data Analytics</strong></span>
     <span><code>Feb2024-May2024</code></span>
-  - A toy project, learnt about unix operations and single cell sequencing.
+  - A toy project, learnt about unix operations and single cell sequencing. -->
 
 ## Awards 
 
